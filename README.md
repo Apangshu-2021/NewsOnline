@@ -13,7 +13,7 @@ This is a news rendering application built with the React & Bootstrap.
 - Users can read the full news by clicking on the 'Read More' button.
 - Used News API for collecting and displaying the news.
 
-### Install Dependencies (frontend & backend)
+### Install Dependencies 
 
 ```
 npm install
